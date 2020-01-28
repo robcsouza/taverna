@@ -80,7 +80,8 @@ ul li:nth-child(1) a:hover:before{
 }
 
 ul li:nth-child(2) a:hover:before{
-  background: #e4405f;
+  background: linear-gradient(45deg,#405de6,#5851db,#833ab4,#c13584,
+  #e1306c,#fd1d1d);
 }
 
 ul li:nth-child(3) a:hover:before{
